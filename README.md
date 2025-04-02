@@ -1,1 +1,1 @@
-Colaborative Text ediiting platform
+collaborative text editing platform
