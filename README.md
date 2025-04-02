@@ -1,1 +1,0 @@
-collaborative text editing platform
